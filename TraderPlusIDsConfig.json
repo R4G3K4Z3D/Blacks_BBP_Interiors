@@ -1,0 +1,79 @@
+{
+    "Version": "2.5",
+    "IDs": [
+        {                                                //If you are adding this to a pre existing TraderPlusIDsConfig.json then copy from here to the bottom of the page. If not then copy the whole page and remove the comments.
+            "Id": 0,                    //Make sure to change these ID numbers to the correct IDs on your server
+            "Categories": [
+                "BBP Carpet 1",
+                "BBP Carpet 2",
+                "BBP Carpet 3",
+                "BBP Carpet 4",
+                "BBP Carpet 5",
+                "BBP Carpet 6",
+                "BBP Carpet 7",
+                "BBP Carpet 8",
+                "BBP Carpet 9",
+                "BBP Carpet 10",
+                "BBP Carpet 11",
+                "BBP Carpet 12",
+                "BBP Carpet 13"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 0,                    //Make sure to change these ID numbers to the correct IDs on your server
+            "Categories": [
+                "BBP Murals 1",
+                "BBP Murals 2",
+                "BBP Murals 3",
+                "BBP Murals 4",
+                "BBP Murals 5",
+                "BBP Murals 6",
+                "BBP Murals 7",
+                "BBP Murals 8",
+                "BBP Murals 9",
+                "BBP Murals 10",
+                "BBP Murals 11",
+                "BBP Murals 12",
+                "BBP Murals 13",
+                "BBP Murals 14"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 0,                    //Make sure to change these ID numbers to the correct IDs on your server
+            "Categories": [
+                "BBP Plaster 1",
+                "BBP Plaster 2",
+                "BBP Plaster 3",
+                "BBP Plaster 4",
+                "BBP Plaster 5",
+                "BBP Plaster 6",
+                "BBP Plaster 7"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        },
+        {
+            "Id": 0,                    //Make sure to change these ID numbers to the correct IDs on your server
+            "Categories": [
+                "BBP Wallpaper 1",
+                "BBP Wallpaper 2",
+                "BBP Wallpaper 3",
+                "BBP Wallpaper 4",
+                "BBP Wallpaper 5",
+                "BBP Wallpaper 6",
+                "BBP Wallpaper 7",
+                "BBP Wallpaper 8",
+                "BBP Wallpaper 9",
+                "BBP Wallpaper 10",
+                "BBP Wallpaper 11"
+            ],
+            "LicencesRequired": [],
+            "CurrenciesAccepted": []
+        }                                      // Copy from that top comment line to this comment. Make sure you remove these comments though.
+    ]                                                
+  }
+}
